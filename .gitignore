@@ -1,0 +1,9 @@
+text_1.txt
+text_2.txt
+
+#add auto-generated files
+auto-gen-files/a.txt
+auto-gen-files/b.txt
+auto-gen-files/c.txt
+
+#we can use *  ==> auto-gen-files/*
